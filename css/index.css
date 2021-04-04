@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+.xbox{
+	width: 1000px;
+	height: 1500px;
+	background: #E6F4EA;
+	margin: 0 auto;
+	padding: 50px;
+}
+
+.steam-1{
+	width: 1000px;
+	height: 300px;
+/*	background: #4C70B9;*/
+	
+}
+.steam-1 a{
+	float: right;
+	padding-top: 200px;
+
+}
+
+.steam-1 h1{
+	float: left
+}
+.steam-1 p{
+	float: right;
+	margin-left: 30px;
+}
+.steam-1 h2{
+	padding-top: 150px;
+	font-size: 40px;
+	float: none
+}
+	
+.steam-2{
+	width: 1000px;
+	height: 300px;
+/*	background: #0D48C0;*/
+	
+	
+}
+.team{
+	width:500px;
+	height: 250px;
+	background:#4F4F4F ;
+	float: right;
+	margin-top: 20px
+}
+.steam-2 h3{
+	font-size:25px;
+	padding-top:35px
+}
+.steam-3{
+	width: 1000px;
+	height: 300px;
+/*	background: #4A40A4*/
+}
+.steam-3 h3{
+	font-size:25px;
+	padding-top:60px		
+}
+.team-1{
+	width:500px;
+	height: 250px;
+	background:#4F4F4F ;
+	float: right;
+	margin-top: 20px
+}
+.steam-4{
+	width: 1000px;
+	height: 300px;
+/*	background: #F31E59;*/
+	
+}
+.team-2{
+	width:500px;
+	height: 250px;
+	background:#4F4F4F;
+	float: right;
+	margin-top: 20px
+}
+
+.steam-4 h3{
+	font-size:25px;
+	padding-top:60px
+}
+.steam-5{
+	width: 1000px;
+	height: 200px;
+/*	background: #F853A0;*/
+	
+}
+.steam-5 a{
+	float: left;
+	margin-top: 170px;
+	font-size: 25px
+}
+.steam-5 a1{
+	float: right;
+	padding-top: 170px;
+		font-size: 25px;
+	margin:15px
+		
+}
